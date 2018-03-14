@@ -2,8 +2,10 @@
 <database>
     <element label="Tests" max_length="40" name="x_195649_consumex_tests" type="collection">
         <element display="true" label="Category" max_length="40" name="category" type="string"/>
-        <element choice="1" label="Consumables Utilized" max_length="40" name="consumables_utilized" reference="x_195649_consumex_consumable" type="glide_list">
-            <choice/>
+        <element choice="1" label="Consumables Utilized" max_length="40" name="consumables_utilized" type="glide_list">
+            <choice>
+                <element label="f9883c964f201300d89cfa218110c7ee,6c85cb7" value="f9883c964f201300d89cfa218110c7ee,6c85cb7"/>
+            </choice>
         </element>
         <element label="Test Name" max_length="40" name="test_name" type="string"/>
     </element>
