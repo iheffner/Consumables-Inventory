@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="unit_type" label="Unit type" language="en" table="x_195649_consumex_consumable">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>unit_type</element>
+            <help/>
+            <hint/>
+            <label>Unit type</label>
+            <language>en</language>
+            <name>x_195649_consumex_consumable</name>
+            <plural>Unit types</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>ekurtz</sys_created_by>
+            <sys_created_on>2018-03-09 16:23:05</sys_created_on>
+            <sys_id>24cce8344f301300d89cfa218110c707</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Unit type</sys_name>
+            <sys_package display_value="Consumex" source="x_195649_consumex">aacf3af14f201300d89cfa218110c7b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consumex">aacf3af14f201300d89cfa218110c7b9</sys_scope>
+            <sys_update_name>sys_documentation_x_195649_consumex_consumable_unit_type_en</sys_update_name>
+            <sys_updated_by>ekurtz</sys_updated_by>
+            <sys_updated_on>2018-03-09 16:23:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

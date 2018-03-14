@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="" section_id="6193c3bf4f601300d89cfa218110c76b" sys_domain="global" table="x_195649_consumex_consumable" version="3" view="Add">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>ekurtz</sys_created_by>
+            <sys_created_on>2018-03-09 16:23:49</sys_created_on>
+            <sys_id>4bec2c344f301300d89cfa218110c7b5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">6193c3bf4f601300d89cfa218110c76b</sys_ui_section>
+            <sys_updated_by>ekurtz</sys_updated_by>
+            <sys_updated_on>2018-03-09 16:23:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>description</element>
+            <position>1</position>
+            <sys_created_by>ekurtz</sys_created_by>
+            <sys_created_on>2018-03-09 16:23:49</sys_created_on>
+            <sys_id>13ec2c344f301300d89cfa218110c7b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">6193c3bf4f601300d89cfa218110c76b</sys_ui_section>
+            <sys_updated_by>ekurtz</sys_updated_by>
+            <sys_updated_on>2018-03-09 16:23:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>id</element>
+            <position>2</position>
+            <sys_created_by>ekurtz</sys_created_by>
+            <sys_created_on>2018-03-09 16:23:49</sys_created_on>
+            <sys_id>93ec2c344f301300d89cfa218110c7b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">6193c3bf4f601300d89cfa218110c76b</sys_ui_section>
+            <sys_updated_by>ekurtz</sys_updated_by>
+            <sys_updated_on>2018-03-09 16:23:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>ekurtz</sys_created_by>
+            <sys_created_on>2018-03-09 16:23:49</sys_created_on>
+            <sys_id>17ec2c344f301300d89cfa218110c7b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">6193c3bf4f601300d89cfa218110c76b</sys_ui_section>
+            <sys_updated_by>ekurtz</sys_updated_by>
+            <sys_updated_on>2018-03-09 16:23:49</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>location</element>
+            <position>4</position>
+            <sys_created_by>ekurtz</sys_created_by>
+            <sys_created_on>2018-03-09 16:23:49</sys_created_on>
+            <sys_id>97ec2c344f301300d89cfa218110c7b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">6193c3bf4f601300d89cfa218110c76b</sys_ui_section>
+            <sys_updated_by>ekurtz</sys_updated_by>
+            <sys_updated_on>2018-03-09 16:23:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quantity</element>
+            <position>5</position>
+            <sys_created_by>ekurtz</sys_created_by>
+            <sys_created_on>2018-03-09 16:23:49</sys_created_on>
+            <sys_id>1bec2c344f301300d89cfa218110c7b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">6193c3bf4f601300d89cfa218110c76b</sys_ui_section>
+            <sys_updated_by>ekurtz</sys_updated_by>
+            <sys_updated_on>2018-03-09 16:23:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>unit_type</element>
+            <position>6</position>
+            <sys_created_by>ekurtz</sys_created_by>
+            <sys_created_on>2018-03-09 16:23:49</sys_created_on>
+            <sys_id>9bec2c344f301300d89cfa218110c7b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">6193c3bf4f601300d89cfa218110c76b</sys_ui_section>
+            <sys_updated_by>ekurtz</sys_updated_by>
+            <sys_updated_on>2018-03-09 16:23:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>quant_per_unit</element>
+            <position>7</position>
+            <sys_created_by>ekurtz</sys_created_by>
+            <sys_created_on>2018-03-09 16:23:49</sys_created_on>
+            <sys_id>1fec2c344f301300d89cfa218110c7b6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">6193c3bf4f601300d89cfa218110c76b</sys_ui_section>
+            <sys_updated_by>ekurtz</sys_updated_by>
+            <sys_updated_on>2018-03-09 16:23:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_195649_consumex_consumable</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>iheffner</sys_created_by>
+            <sys_created_on>2018-03-07 00:48:09</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6193c3bf4f601300d89cfa218110c76b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_195649_consumex_consumable</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Consumex" source="x_195649_consumex">aacf3af14f201300d89cfa218110c7b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consumex">aacf3af14f201300d89cfa218110c7b9</sys_scope>
+            <sys_update_name>sys_ui_section_6193c3bf4f601300d89cfa218110c76b</sys_update_name>
+            <sys_updated_by>iheffner</sys_updated_by>
+            <sys_updated_on>2018-03-07 00:48:09</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Add" name="Add">699343bf4f601300d89cfa218110c75d</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Tests" max_length="40" name="x_195649_consumex_tests" type="collection">
+        <element label="Category" max_length="40" name="category" type="string"/>
+        <element label="Consumables Utilized" max_length="40" name="consumables_utilized" type="string"/>
+        <element label="Test Name" max_length="40" name="test_name" type="string"/>
+    </element>
+</database>

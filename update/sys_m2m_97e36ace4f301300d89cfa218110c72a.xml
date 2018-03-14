@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_m2m">
+    <sys_m2m action="INSERT_OR_UPDATE">
+        <from_table>x_195649_consumex_consumable</from_table>
+        <m2m_from_field>consumable</m2m_from_field>
+        <m2m_from_label>test tables</m2m_from_label>
+        <m2m_table>x_195649_consumex_m2m_test_tables_consumables</m2m_table>
+        <m2m_to_field>test_table</m2m_to_field>
+        <m2m_to_label>Consumables</m2m_to_label>
+        <sys_class_name>sys_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-03-13 22:16:50</sys_created_on>
+        <sys_id>97e36ace4f301300d89cfa218110c72a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_195649_consumex_m2m_test_tables_consumables</sys_name>
+        <sys_package display_value="Consumex" source="x_195649_consumex">aacf3af14f201300d89cfa218110c7b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consumex">aacf3af14f201300d89cfa218110c7b9</sys_scope>
+        <sys_update_name>sys_m2m_97e36ace4f301300d89cfa218110c72a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-03-13 22:16:50</sys_updated_on>
+        <to_table>x_195649_consumex_test_table</to_table>
+    </sys_m2m>
+</record_update>

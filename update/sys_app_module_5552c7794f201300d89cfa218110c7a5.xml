@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Consumex">901cf05a4f201300d89cfa218110c7b4</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter/>
+        <hint>Add a new record to the Consumable table</hint>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Consumables</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_195649_consumex_consumable</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_195649_consumex.consumable_user</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-02-28 19:34:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>5552c7794f201300d89cfa218110c7a5</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Add</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Consumex" source="x_195649_consumex">aacf3af14f201300d89cfa218110c7b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consumex">aacf3af14f201300d89cfa218110c7b9</sys_scope>
+        <sys_update_name>sys_app_module_5552c7794f201300d89cfa218110c7a5</sys_update_name>
+        <sys_updated_by>iheffner</sys_updated_by>
+        <sys_updated_on>2018-03-07 00:48:30</sys_updated_on>
+        <timeline_page/>
+        <title>Add</title>
+        <uncancelable>false</uncancelable>
+        <view_name>Add</view_name>
+        <window_name/>
+    </sys_app_module>
+</record_update>
