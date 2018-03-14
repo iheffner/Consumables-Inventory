@@ -6,9 +6,9 @@
         <alter_access>false</alter_access>
         <client_scripts_access>false</client_scripts_access>
         <configuration_access>false</configuration_access>
-        <create_access>false</create_access>
+        <create_access>true</create_access>
         <create_access_controls>true</create_access_controls>
-        <delete_access>false</delete_access>
+        <delete_access>true</delete_access>
         <extension_model/>
         <is_extendable>false</is_extendable>
         <label>Tests</label>
@@ -24,15 +24,15 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-03-14 18:25:44</sys_created_on>
         <sys_id>66787ada4f301300d89cfa218110c700</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>Tests</sys_name>
         <sys_package display_value="Consumex" source="x_195649_consumex">aacf3af14f201300d89cfa218110c7b9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Consumex">aacf3af14f201300d89cfa218110c7b9</sys_scope>
         <sys_update_name>sys_db_object_66787ada4f301300d89cfa218110c700</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-03-14 18:25:44</sys_updated_on>
-        <update_access>false</update_access>
+        <sys_updated_by>ekurtz</sys_updated_by>
+        <sys_updated_on>2018-03-14 18:38:09</sys_updated_on>
+        <update_access>true</update_access>
         <user_role display_value="x_195649_consumex.tests_user" name="x_195649_consumex.tests_user">71c87eda4f301300d89cfa218110c742</user_role>
         <ws_access>true</ws_access>
     </sys_db_object>
