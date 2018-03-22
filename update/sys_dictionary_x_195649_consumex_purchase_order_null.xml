@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="time_created" table="x_195649_consumex_consumable">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="" table="x_195649_consumex_purchase_order">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
@@ -15,10 +15,10 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Time created</column_label>
+        <column_label/>
         <comments/>
         <create_roles/>
-        <default_value>javascript: gs.nowDateTime()</default_value>
+        <default_value/>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -28,18 +28,18 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>time_created</element>
+        <element/>
         <element_reference>false</element_reference>
         <foreign_database/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="">glide_date_time</internal_type>
+        <internal_type display_value="Collection">collection</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_195649_consumex_consumable</name>
+        <name>x_195649_consumex_purchase_order</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>true</read_only>
+        <read_only>false</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -52,17 +52,17 @@
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
-        <sys_created_by>iheffner</sys_created_by>
-        <sys_created_on>2018-03-07 01:40:42</sys_created_on>
-        <sys_id>d13283164f701300d89cfa218110c79b</sys_id>
+        <sys_created_by>eracca</sys_created_by>
+        <sys_created_on>2018-03-21 14:41:38</sys_created_on>
+        <sys_id>af98ca244f011300d89cfa218110c708</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>Time created</sys_name>
+        <sys_name>x_195649_consumex_purchase_order</sys_name>
         <sys_package display_value="Consumex" source="x_195649_consumex">aacf3af14f201300d89cfa218110c7b9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Consumex">aacf3af14f201300d89cfa218110c7b9</sys_scope>
-        <sys_update_name>sys_dictionary_x_195649_consumex_consumable_time_created</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2018-03-14 19:06:58</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_195649_consumex_purchase_order_null</sys_update_name>
+        <sys_updated_by>eracca</sys_updated_by>
+        <sys_updated_on>2018-03-21 14:41:38</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

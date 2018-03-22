@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Location Info" section_id="710a18014f411300d89cfa218110c799" sys_domain="global" table="x_195649_consumex_consumable" version="3" view="Add">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>shelf_number</element>
+            <position>0</position>
+            <sys_created_by>iheffner</sys_created_by>
+            <sys_created_on>2018-03-22 19:55:29</sys_created_on>
+            <sys_id>fe0a18014f411300d89cfa218110c7e5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location Info" display_value="Location Info" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">710a18014f411300d89cfa218110c799</sys_ui_section>
+            <sys_updated_by>iheffner</sys_updated_by>
+            <sys_updated_on>2018-03-22 19:55:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>iheffner</sys_created_by>
+            <sys_created_on>2018-03-22 19:55:29</sys_created_on>
+            <sys_id>720a18014f411300d89cfa218110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location Info" display_value="Location Info" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">710a18014f411300d89cfa218110c799</sys_ui_section>
+            <sys_updated_by>iheffner</sys_updated_by>
+            <sys_updated_on>2018-03-22 19:55:29</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>shelf_location</element>
+            <position>2</position>
+            <sys_created_by>iheffner</sys_created_by>
+            <sys_created_on>2018-03-22 19:55:29</sys_created_on>
+            <sys_id>f20a18014f411300d89cfa218110c7e6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Location Info" display_value="Location Info" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">710a18014f411300d89cfa218110c799</sys_ui_section>
+            <sys_updated_by>iheffner</sys_updated_by>
+            <sys_updated_on>2018-03-22 19:55:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Location Info</caption>
+            <header>false</header>
+            <name>x_195649_consumex_consumable</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>iheffner</sys_created_by>
+            <sys_created_on>2018-03-22 19:55:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>710a18014f411300d89cfa218110c799</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Location Info</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Consumex" source="x_195649_consumex">aacf3af14f201300d89cfa218110c7b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consumex">aacf3af14f201300d89cfa218110c7b9</sys_scope>
+            <sys_update_name>sys_ui_section_710a18014f411300d89cfa218110c799</sys_update_name>
+            <sys_updated_by>iheffner</sys_updated_by>
+            <sys_updated_on>2018-03-22 19:55:25</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Add" name="Add">699343bf4f601300d89cfa218110c75d</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

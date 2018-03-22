@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application/>
+        <filter/>
+        <name>Purchase Orders</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_195649_consumex.purchase_order_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>eracca</sys_created_by>
+        <sys_created_on>2018-03-21 14:41:38</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>a7988a244f011300d89cfa218110c7f1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Purchase Orders</sys_name>
+        <sys_package display_value="Consumex" source="x_195649_consumex">aacf3af14f201300d89cfa218110c7b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consumex">aacf3af14f201300d89cfa218110c7b9</sys_scope>
+        <sys_update_name>sys_ui_module_a7988a244f011300d89cfa218110c7f1</sys_update_name>
+        <sys_updated_by>eracca</sys_updated_by>
+        <sys_updated_on>2018-03-21 14:41:38</sys_updated_on>
+        <table>x_195649_consumex_purchase_order</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>
