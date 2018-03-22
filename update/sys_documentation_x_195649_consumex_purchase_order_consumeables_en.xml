@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="consumeables" label="Consumeables" language="en" table="x_195649_consumex_purchase_order">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>consumeables</element>
+            <help/>
+            <hint/>
+            <label>Consumeables</label>
+            <language>en</language>
+            <name>x_195649_consumex_purchase_order</name>
+            <plural>Consumeables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>eracca</sys_created_by>
+            <sys_created_on>2018-03-21 14:45:06</sys_created_on>
+            <sys_id>9a69c2644f011300d89cfa218110c779</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Consumeables</sys_name>
+            <sys_package display_value="Consumex" source="x_195649_consumex">aacf3af14f201300d89cfa218110c7b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consumex">aacf3af14f201300d89cfa218110c7b9</sys_scope>
+            <sys_update_name>sys_documentation_x_195649_consumex_purchase_order_consumeables_en</sys_update_name>
+            <sys_updated_by>eracca</sys_updated_by>
+            <sys_updated_on>2018-03-21 14:45:06</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

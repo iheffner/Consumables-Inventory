@@ -54,15 +54,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>ekurtz</sys_created_by>
         <sys_created_on>2018-03-09 16:21:58</sys_created_on>
-        <sys_id>569b6cf04f301300d89cfa218110c74e</sys_id>
+        <sys_id>1d3283164f701300d89cfa218110c798</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>Quantity per unit type</sys_name>
         <sys_package display_value="Consumex" source="x_195649_consumex">aacf3af14f201300d89cfa218110c7b9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Consumex">aacf3af14f201300d89cfa218110c7b9</sys_scope>
         <sys_update_name>sys_dictionary_x_195649_consumex_consumable_quant_per_unit</sys_update_name>
-        <sys_updated_by>ekurtz</sys_updated_by>
-        <sys_updated_on>2018-03-09 16:21:58</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2018-03-14 19:06:58</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

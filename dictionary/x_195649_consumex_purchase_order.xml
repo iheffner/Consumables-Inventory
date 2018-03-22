@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Purchase Order" max_length="40" name="x_195649_consumex_purchase_order" type="collection">
+        <element choice="1" label="Amount test" max_length="100" name="amount_test" reference="x_195649_consumex_consumable" type="simple_name_values">
+            <choice>
+                <element label="1" value="1"/>
+            </choice>
+        </element>
+        <element label="Consumeables" max_length="4000" name="consumeables" reference="x_195649_consumex_consumable" reference_qual="nameSTARTSWITH^EQ" reference_qual_condition="nameSTARTSWITH^EQ" type="glide_list"/>
+        <element label="Fulfilled" max_length="40" name="fulfilled" type="boolean"/>
+    </element>
+</database>

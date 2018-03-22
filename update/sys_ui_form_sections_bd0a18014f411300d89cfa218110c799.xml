@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="bd0a18014f411300d89cfa218110c799" sys_domain="global" table="x_195649_consumex_consumable" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>iheffner</sys_created_by>
+            <sys_created_on>2018-03-22 19:55:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>390a18014f411300d89cfa218110c79c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_195649_consumex_consumable" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">bd0a18014f411300d89cfa218110c799</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">6193c3bf4f601300d89cfa218110c76b</sys_ui_section>
+            <sys_updated_by>iheffner</sys_updated_by>
+            <sys_updated_on>2018-03-22 19:55:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>iheffner</sys_created_by>
+            <sys_created_on>2018-03-22 19:55:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>350a18014f411300d89cfa218110c79d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_195649_consumex_consumable" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">bd0a18014f411300d89cfa218110c799</sys_ui_form>
+            <sys_ui_section caption="Unit Info" display_value="Unit Info" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">f10a18014f411300d89cfa218110c798</sys_ui_section>
+            <sys_updated_by>iheffner</sys_updated_by>
+            <sys_updated_on>2018-03-22 19:55:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>iheffner</sys_created_by>
+            <sys_created_on>2018-03-22 19:55:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>310a18014f411300d89cfa218110c7a1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_195649_consumex_consumable" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">bd0a18014f411300d89cfa218110c799</sys_ui_form>
+            <sys_ui_section caption="Location Info" display_value="Location Info" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">710a18014f411300d89cfa218110c799</sys_ui_section>
+            <sys_updated_by>iheffner</sys_updated_by>
+            <sys_updated_on>2018-03-22 19:55:26</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_195649_consumex_consumable</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>iheffner</sys_created_by>
+            <sys_created_on>2018-03-22 19:55:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bd0a18014f411300d89cfa218110c799</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_195649_consumex_consumable</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Consumex" source="x_195649_consumex">aacf3af14f201300d89cfa218110c7b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consumex">aacf3af14f201300d89cfa218110c7b9</sys_scope>
+            <sys_update_name>sys_ui_form_sections_bd0a18014f411300d89cfa218110c799</sys_update_name>
+            <sys_updated_by>iheffner</sys_updated_by>
+            <sys_updated_on>2018-03-22 19:55:25</sys_updated_on>
+            <sys_user/>
+            <view display_value="Add" name="Add">699343bf4f601300d89cfa218110c75d</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>
