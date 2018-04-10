@@ -4,42 +4,56 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>unit_type</element>
             <position>0</position>
-            <sys_created_by>iheffner</sys_created_by>
-            <sys_created_on>2018-03-22 19:55:26</sys_created_on>
-            <sys_id>750a18014f411300d89cfa218110c7e1</sys_id>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-10 19:04:46</sys_created_on>
+            <sys_id>85a4ce474f111300d89cfa218110c79f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Unit Info" display_value="Unit Info" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">f10a18014f411300d89cfa218110c798</sys_ui_section>
-            <sys_updated_by>iheffner</sys_updated_by>
-            <sys_updated_on>2018-03-22 19:55:26</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-10 19:04:46</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>order_threshold</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-10 19:04:46</sys_created_on>
+            <sys_id>09a4ce474f111300d89cfa218110c79f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Unit Info" display_value="Unit Info" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">f10a18014f411300d89cfa218110c798</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-10 19:04:46</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
-            <position>1</position>
-            <sys_created_by>iheffner</sys_created_by>
-            <sys_created_on>2018-03-22 19:55:26</sys_created_on>
-            <sys_id>f50a18014f411300d89cfa218110c7e1</sys_id>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-10 19:04:46</sys_created_on>
+            <sys_id>89a4ce474f111300d89cfa218110c79f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Unit Info" display_value="Unit Info" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">f10a18014f411300d89cfa218110c798</sys_ui_section>
-            <sys_updated_by>iheffner</sys_updated_by>
-            <sys_updated_on>2018-03-22 19:55:26</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-10 19:04:46</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>quant_per_unit</element>
-            <position>2</position>
-            <sys_created_by>iheffner</sys_created_by>
-            <sys_created_on>2018-03-22 19:55:26</sys_created_on>
-            <sys_id>790a18014f411300d89cfa218110c7e1</sys_id>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-10 19:04:46</sys_created_on>
+            <sys_id>0da4ce474f111300d89cfa218110c79f</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Unit Info" display_value="Unit Info" name="x_195649_consumex_consumable" sys_domain="global" view="699343bf4f601300d89cfa218110c75d">f10a18014f411300d89cfa218110c798</sys_ui_section>
-            <sys_updated_by>iheffner</sys_updated_by>
-            <sys_updated_on>2018-03-22 19:55:26</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-10 19:04:46</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

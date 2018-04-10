@@ -6,11 +6,14 @@
         <element label="ID" max_length="40" name="id" type="integer"/>
         <element label="Location" max_length="255" name="location" type="integer"/>
         <element label="Name" max_length="40" name="name" type="string"/>
+        <element default="10" label="Order threshold" max_length="40" name="order_threshold" type="integer"/>
+        <element default="3" label="Priority" max_length="1" name="priority" type="integer"/>
         <element label="Quantity" max_length="40" name="quantity" type="integer"/>
         <element label="Quantity per unit type" max_length="40" name="quant_per_unit" type="integer"/>
         <element label="Shelf location" max_length="10" name="shelf_location" type="string"/>
         <element label="Shelf Number" max_length="10" name="shelf_number" type="integer"/>
-        <element default="javascript: gs.nowDateTime()" label="Time created" max_length="40" name="time_created" read_only="true" type="glide_date_time"/>
+        <element default="0" label="Threshold Proportion" max_length="20" name="threshold_proportion" type="decimal"/>
+        <element label="Time created" max_length="40" name="time_created" read_only="true" type="glide_date_time"/>
         <element label="Unit type" max_length="200" name="unit_type" type="string"/>
     </element>
 </database>
