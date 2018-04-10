@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_relationship">
+    <sys_relationship action="INSERT_OR_UPDATE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_195649_consumex_tests</basic_apply_to>
+        <basic_query_from>x_195649_consumex_testcconsumables</basic_query_from>
+        <insert_callback/>
+        <name>ConsumeInTests</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+
+	current.addQuery('testid', parent.testid);
+
+})(current, parent);]]></query_with>
+        <reference_field/>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>ekurtz</sys_created_by>
+        <sys_created_on>2018-04-04 18:27:37</sys_created_on>
+        <sys_id>6bd08f4d4f111300d89cfa218110c728</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>ConsumeInTests</sys_name>
+        <sys_package display_value="Consumex" source="x_195649_consumex">aacf3af14f201300d89cfa218110c7b9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Consumex">aacf3af14f201300d89cfa218110c7b9</sys_scope>
+        <sys_update_name>sys_relationship_6bd08f4d4f111300d89cfa218110c728</sys_update_name>
+        <sys_updated_by>ekurtz</sys_updated_by>
+        <sys_updated_on>2018-04-04 18:36:15</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="delete_multiple" query="documentkey=6bd08f4d4f111300d89cfa218110c728"/>
+</record_update>
