@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="consumable_quantity" label="Consumable quantity" language="en" table="x_195649_consumex_testcconsumables">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>consumable_quantity</element>
+            <help/>
+            <hint/>
+            <label>Consumable quantity</label>
+            <language>en</language>
+            <name>x_195649_consumex_testcconsumables</name>
+            <plural>Consumable quantities</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>ekurtz</sys_created_by>
+            <sys_created_on>2018-04-04 18:17:51</sys_created_on>
+            <sys_id>1f500b4d4f111300d89cfa218110c7fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Consumable quantity</sys_name>
+            <sys_package display_value="Consumex" source="x_195649_consumex">aacf3af14f201300d89cfa218110c7b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consumex">aacf3af14f201300d89cfa218110c7b9</sys_scope>
+            <sys_update_name>sys_documentation_x_195649_consumex_testcconsumables_consumable_quantity_en</sys_update_name>
+            <sys_updated_by>ekurtz</sys_updated_by>
+            <sys_updated_on>2018-04-04 18:17:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

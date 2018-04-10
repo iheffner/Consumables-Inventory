@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_195649_consumex_testcconsumables" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>testid</element>
+            <list_id display_value="x_195649_consumex_testcconsumables" element="NULL" name="x_195649_consumex_testcconsumables" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">af95cb414f511300d89cfa218110c7dd</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>ekurtz</sys_created_by>
+            <sys_created_on>2018-04-04 18:40:48</sys_created_on>
+            <sys_id>2795cb414f511300d89cfa218110c7de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ekurtz</sys_updated_by>
+            <sys_updated_on>2018-04-04 18:40:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>consumable_quantity</element>
+            <list_id display_value="x_195649_consumex_testcconsumables" element="NULL" name="x_195649_consumex_testcconsumables" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">af95cb414f511300d89cfa218110c7dd</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>ekurtz</sys_created_by>
+            <sys_created_on>2018-04-04 18:40:48</sys_created_on>
+            <sys_id>a795cb414f511300d89cfa218110c7de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ekurtz</sys_updated_by>
+            <sys_updated_on>2018-04-04 18:40:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>consumableid</element>
+            <list_id display_value="x_195649_consumex_testcconsumables" element="NULL" name="x_195649_consumex_testcconsumables" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">af95cb414f511300d89cfa218110c7dd</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>ekurtz</sys_created_by>
+            <sys_created_on>2018-04-04 18:40:48</sys_created_on>
+            <sys_id>2b95cb414f511300d89cfa218110c7de</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>ekurtz</sys_updated_by>
+            <sys_updated_on>2018-04-04 18:40:48</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_195649_consumex_testcconsumables</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>ekurtz</sys_created_by>
+            <sys_created_on>2018-04-04 18:40:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>af95cb414f511300d89cfa218110c7dd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_195649_consumex_testcconsumables</sys_name>
+            <sys_package display_value="Consumex" source="x_195649_consumex">aacf3af14f201300d89cfa218110c7b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consumex">aacf3af14f201300d89cfa218110c7b9</sys_scope>
+            <sys_update_name>sys_ui_list_x_195649_consumex_testcconsumables_null</sys_update_name>
+            <sys_updated_by>ekurtz</sys_updated_by>
+            <sys_updated_on>2018-04-04 18:40:48</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

@@ -7,6 +7,7 @@
                 <element label="f9883c964f201300d89cfa218110c7ee,6c85cb7" value="f9883c964f201300d89cfa218110c7ee,6c85cb7"/>
             </choice>
         </element>
+        <element label="TestID" mandatory="true" max_length="40" name="testid" type="integer"/>
         <element label="Test Name" max_length="40" name="test_name" type="string"/>
     </element>
 </database>

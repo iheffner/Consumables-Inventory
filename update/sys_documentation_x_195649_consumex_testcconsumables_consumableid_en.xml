@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="consumableid" label="ConsumableID" language="en" table="x_195649_consumex_testcconsumables">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>consumableid</element>
+            <help/>
+            <hint/>
+            <label>ConsumableID</label>
+            <language>en</language>
+            <name>x_195649_consumex_testcconsumables</name>
+            <plural>ConsumableIDs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>ekurtz</sys_created_by>
+            <sys_created_on>2018-04-04 18:14:45</sys_created_on>
+            <sys_id>caaff60d4f111300d89cfa218110c729</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>ConsumableID</sys_name>
+            <sys_package display_value="Consumex" source="x_195649_consumex">aacf3af14f201300d89cfa218110c7b9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Consumex">aacf3af14f201300d89cfa218110c7b9</sys_scope>
+            <sys_update_name>sys_documentation_x_195649_consumex_testcconsumables_consumableid_en</sys_update_name>
+            <sys_updated_by>ekurtz</sys_updated_by>
+            <sys_updated_on>2018-04-04 18:14:45</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

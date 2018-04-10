@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="TestConsumables" max_length="40" name="x_195649_consumex_testcconsumables" type="collection">
+        <element label="ConsumableID" max_length="32" name="consumableid" reference_qual="id=^EQ" reference_qual_condition="id=^EQ" type="integer"/>
+        <element default="0" label="Consumable quantity" max_length="40" name="consumable_quantity" type="integer"/>
+        <element label="TestID" max_length="32" name="testid" reference_qual="sys_idSTARTSWITH^EQ" reference_qual_condition="sys_idSTARTSWITH^EQ" type="integer"/>
+        <index name="index">
+            <element name="consumableid"/>
+        </index>
+        <index name="index2">
+            <element name="testid"/>
+        </index>
+    </element>
+</database>
