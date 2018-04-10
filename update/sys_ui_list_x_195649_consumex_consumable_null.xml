@@ -4,152 +4,197 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bb3132c64f701300d89cfa218110c700</list_id>
+            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8f03e6874f511300d89cfa218110c7a2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-13 23:14:21</sys_created_on>
-            <sys_id>333132c64f701300d89cfa218110c701</sys_id>
+            <sys_created_on>2018-04-10 21:17:37</sys_created_on>
+            <sys_id>0b03e6874f511300d89cfa218110c7a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-13 23:14:21</sys_updated_on>
+            <sys_updated_on>2018-04-10 21:17:37</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>description</element>
-            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bb3132c64f701300d89cfa218110c700</list_id>
+            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8f03e6874f511300d89cfa218110c7a2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-13 23:14:21</sys_created_on>
-            <sys_id>b33132c64f701300d89cfa218110c701</sys_id>
+            <sys_created_on>2018-04-10 21:17:37</sys_created_on>
+            <sys_id>8f03e6874f511300d89cfa218110c7a3</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-13 23:14:21</sys_updated_on>
+            <sys_updated_on>2018-04-10 21:17:37</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>location</element>
-            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bb3132c64f701300d89cfa218110c700</list_id>
+            <element>priority</element>
+            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8f03e6874f511300d89cfa218110c7a2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-13 23:14:21</sys_created_on>
-            <sys_id>373132c64f701300d89cfa218110c701</sys_id>
+            <sys_created_on>2018-04-10 21:17:37</sys_created_on>
+            <sys_id>0303e6874f511300d89cfa218110c7a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-13 23:14:21</sys_updated_on>
+            <sys_updated_on>2018-04-10 21:17:37</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>quantity</element>
-            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bb3132c64f701300d89cfa218110c700</list_id>
+            <element>id</element>
+            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8f03e6874f511300d89cfa218110c7a2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>3</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-13 23:14:21</sys_created_on>
-            <sys_id>b73132c64f701300d89cfa218110c701</sys_id>
+            <sys_created_on>2018-04-10 21:17:37</sys_created_on>
+            <sys_id>8303e6874f511300d89cfa218110c7a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-13 23:14:21</sys_updated_on>
+            <sys_updated_on>2018-04-10 21:17:37</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>unit_type</element>
-            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bb3132c64f701300d89cfa218110c700</list_id>
+            <element>threshold_proportion</element>
+            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8f03e6874f511300d89cfa218110c7a2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>4</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-13 23:14:21</sys_created_on>
-            <sys_id>3b3132c64f701300d89cfa218110c701</sys_id>
+            <sys_created_on>2018-04-10 21:17:37</sys_created_on>
+            <sys_id>0703e6874f511300d89cfa218110c7a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-13 23:14:21</sys_updated_on>
+            <sys_updated_on>2018-04-10 21:17:37</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>quant_per_unit</element>
-            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bb3132c64f701300d89cfa218110c700</list_id>
+            <element>quantity</element>
+            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8f03e6874f511300d89cfa218110c7a2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>5</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-13 23:14:21</sys_created_on>
-            <sys_id>bb3132c64f701300d89cfa218110c701</sys_id>
+            <sys_created_on>2018-04-10 21:17:37</sys_created_on>
+            <sys_id>8703e6874f511300d89cfa218110c7a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-13 23:14:21</sys_updated_on>
+            <sys_updated_on>2018-04-10 21:17:37</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>shelf_location</element>
-            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bb3132c64f701300d89cfa218110c700</list_id>
+            <element>order_threshold</element>
+            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8f03e6874f511300d89cfa218110c7a2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>6</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-13 23:14:21</sys_created_on>
-            <sys_id>3f3132c64f701300d89cfa218110c701</sys_id>
+            <sys_created_on>2018-04-10 21:17:37</sys_created_on>
+            <sys_id>0b03e6874f511300d89cfa218110c7a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-13 23:14:21</sys_updated_on>
+            <sys_updated_on>2018-04-10 21:17:37</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>shelf_number</element>
-            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bb3132c64f701300d89cfa218110c700</list_id>
+            <element>unit_type</element>
+            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8f03e6874f511300d89cfa218110c7a2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>7</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-13 23:14:21</sys_created_on>
-            <sys_id>bf3132c64f701300d89cfa218110c701</sys_id>
+            <sys_created_on>2018-04-10 21:17:37</sys_created_on>
+            <sys_id>8b03e6874f511300d89cfa218110c7a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-13 23:14:21</sys_updated_on>
+            <sys_updated_on>2018-04-10 21:17:37</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>id</element>
-            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bb3132c64f701300d89cfa218110c700</list_id>
+            <element>quant_per_unit</element>
+            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8f03e6874f511300d89cfa218110c7a2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>8</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-13 23:14:21</sys_created_on>
-            <sys_id>333132c64f701300d89cfa218110c702</sys_id>
+            <sys_created_on>2018-04-10 21:17:37</sys_created_on>
+            <sys_id>0f03e6874f511300d89cfa218110c7a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-13 23:14:21</sys_updated_on>
+            <sys_updated_on>2018-04-10 21:17:37</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>end_date</element>
-            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">bb3132c64f701300d89cfa218110c700</list_id>
+            <element>location</element>
+            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8f03e6874f511300d89cfa218110c7a2</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>9</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-13 23:14:21</sys_created_on>
-            <sys_id>b33132c64f701300d89cfa218110c702</sys_id>
+            <sys_created_on>2018-04-10 21:17:37</sys_created_on>
+            <sys_id>8f03e6874f511300d89cfa218110c7a4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-13 23:14:21</sys_updated_on>
+            <sys_updated_on>2018-04-10 21:17:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>shelf_location</element>
+            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8f03e6874f511300d89cfa218110c7a2</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>10</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-10 21:17:37</sys_created_on>
+            <sys_id>0303e6874f511300d89cfa218110c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-10 21:17:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>shelf_number</element>
+            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8f03e6874f511300d89cfa218110c7a2</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>11</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-10 21:17:37</sys_created_on>
+            <sys_id>8303e6874f511300d89cfa218110c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-10 21:17:37</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>end_date</element>
+            <list_id display_value="x_195649_consumex_consumable" element="NULL" name="x_195649_consumex_consumable" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">8f03e6874f511300d89cfa218110c7a2</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>12</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-04-10 21:17:37</sys_created_on>
+            <sys_id>0703e6874f511300d89cfa218110c7a5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-04-10 21:17:37</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -163,10 +208,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2018-03-13 23:14:21</sys_created_on>
+            <sys_created_on>2018-04-10 21:17:37</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>bb3132c64f701300d89cfa218110c700</sys_id>
+            <sys_id>8f03e6874f511300d89cfa218110c7a2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_195649_consumex_consumable</sys_name>
             <sys_package display_value="Consumex" source="x_195649_consumex">aacf3af14f201300d89cfa218110c7b9</sys_package>
@@ -174,7 +219,7 @@
             <sys_scope display_value="Consumex">aacf3af14f201300d89cfa218110c7b9</sys_scope>
             <sys_update_name>sys_ui_list_x_195649_consumex_consumable_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2018-03-13 23:14:21</sys_updated_on>
+            <sys_updated_on>2018-04-10 21:17:37</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
